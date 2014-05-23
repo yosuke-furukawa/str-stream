@@ -1,0 +1,24 @@
+{
+  "name": "stringify-stream",
+  "version": "0.0.1",
+  "description": "JSON.stringify stream for json pretty print",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosuke-furukawa/stringify-stream"
+  },
+  "keywords": [
+    "json",
+    "stringify",
+    "stream"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yosuke-furukawa/stringify-stream/issues"
+  },
+  "homepage": "https://github.com/yosuke-furukawa/stringify-stream"
+}
