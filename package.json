@@ -1,6 +1,6 @@
 {
   "name": "stringify-stream",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JSON.stringify stream for json pretty print",
   "main": "index.js",
   "scripts": {
