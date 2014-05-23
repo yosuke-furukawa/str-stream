@@ -1,4 +1,4 @@
-StringifyStream
+StringifyStream [![Build Status](https://travis-ci.org/yosuke-furukawa/stringify-stream.svg?branch=master)](https://travis-ci.org/yosuke-furukawa/stringify-stream)
 ===================
 
 JSON.stringify and prettify for Stream
